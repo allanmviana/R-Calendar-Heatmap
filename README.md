@@ -1,6 +1,7 @@
 # R Calendar Heatmap
-
 Creates a Calendar Heatmap (in GitHub's contribution chart style) in R with ggplot_calendar_heatmap function.
+
+<img src="Preview image.png" width="250" align="center">
 
 ## Installation
 You should have these packages:
